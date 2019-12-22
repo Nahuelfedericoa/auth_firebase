@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/auth_firebase/static/css/main.7fdb1a57.chunk.css",
+    "main.js": "/auth_firebase/static/js/main.7355d2ab.chunk.js",
+    "main.js.map": "/auth_firebase/static/js/main.7355d2ab.chunk.js.map",
+    "runtime-main.js": "/auth_firebase/static/js/runtime-main.05b6d43e.js",
+    "runtime-main.js.map": "/auth_firebase/static/js/runtime-main.05b6d43e.js.map",
+    "static/js/2.15276d8f.chunk.js": "/auth_firebase/static/js/2.15276d8f.chunk.js",
+    "static/js/2.15276d8f.chunk.js.map": "/auth_firebase/static/js/2.15276d8f.chunk.js.map",
+    "index.html": "/auth_firebase/index.html",
+    "precache-manifest.577d4adaa15760ee7c2f2867280a0c90.js": "/auth_firebase/precache-manifest.577d4adaa15760ee7c2f2867280a0c90.js",
+    "service-worker.js": "/auth_firebase/service-worker.js",
+    "static/css/main.7fdb1a57.chunk.css.map": "/auth_firebase/static/css/main.7fdb1a57.chunk.css.map",
+    "static/js/2.15276d8f.chunk.js.LICENSE": "/auth_firebase/static/js/2.15276d8f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05b6d43e.js",
+    "static/js/2.15276d8f.chunk.js",
+    "static/css/main.7fdb1a57.chunk.css",
+    "static/js/main.7355d2ab.chunk.js"
+  ]
+}
